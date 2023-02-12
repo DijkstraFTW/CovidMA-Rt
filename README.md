@@ -5,8 +5,10 @@ A basic implementation of the [methodology](https://github.com/k-sys/covid-19/bl
 
 <br />
 
-![1](https://user-images.githubusercontent.com/28862912/179424501-6c71e215-1484-4713-ba0a-9de817fa34be.png)
+![téléchargement](https://user-images.githubusercontent.com/28862912/218326170-516793a6-9e22-4d4c-9add-2115a0e6431a.png)
+
 
 <br />
 
-![1](https://user-images.githubusercontent.com/28862912/179424548-79a3751d-7202-4f81-9d8a-b6504d29625e.png)
+![téléchargement (1)](https://user-images.githubusercontent.com/28862912/218326162-ec91d896-ed00-406e-bb18-6a631b38845f.png)
+
