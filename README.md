@@ -1,7 +1,7 @@
 # Estimating Morocco's regions COVID-19 $\textrm{R}_\textrm{t}$ in Real Time
 
 
-A basic implementation of the [methodology](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb) used by Kevin Systrom to estimate the real-time  using a Bayesian approach, which is partly based on [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002185) by Bettencourt & Ribeiro.
+A basic implementation of the [methodology](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb) used by Kevin Systrom to estimate the real-time COVID-19 $\textrm{R}_\textrm{t}$ using a Bayesian approach, which is partly based on [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002185) by Bettencourt & Ribeiro.
 
 <br />
 
